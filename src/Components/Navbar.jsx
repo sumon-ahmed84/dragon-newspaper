@@ -7,7 +7,7 @@ const Navbar = () => {
             <div></div>
             <div className="flex gap-4 text-accent items-center">
                 <NavLink to="/">Home</NavLink>
-                <NavLink to="/abour">About</NavLink>
+                <NavLink to="/about">About</NavLink>
                 <NavLink to="/career">Career</NavLink>
             </div>
             <div className="flex gap-4 text-accent items-center">
